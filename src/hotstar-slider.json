@@ -1,0 +1,86 @@
+{
+    "items": [{
+        "title" : "Run Baby Run",
+        "imageSrc" : "https://i.ibb.co/Dzx2xq8/run-baby-run.webp",
+        "titleImg" : "https://i.ibb.co/1MQs5yX/run-baby-run.webp",
+        "year": "2023",
+        "length": "2h 6m",
+        "language": ["5 Languages"],
+        "certification": "U/A 16+",
+        "description" :"Sathya's simple life takes a drastic turn after he tries to help an unknown woman in trouble. How will he escape from this complicated situation?",
+        "category": ["Thriller"]
+    },
+    {
+        "title" : "Ind vs Aus HighLights",
+        "imageSrc" : "https://i.ibb.co/xz5JTFr/ind-vs-aus-highlights.webp",
+        "titleImg" : "https://i.ibb.co/61r2YLz/ind-vs-aus.webp",
+        "year": "Australia Tour of India 2023",
+        "length": "13m",
+        "description":"Usman Khawaja and Cameron Green piled misery on India as Australia put up a massive 480 in first innings on Day 2 of the fourth Mastercard Test",
+        "category": ["CRICKET"]
+    },
+    {
+        "title" : "Im vs Al HighLights",
+        "imageSrc" : "https://i.ibb.co/j49L5Q3/im-vs-il-highlights.webp",
+        "titleImg" : "https://i.ibb.co/N6g53hD/im-vs-al.webp",
+        "year": "Legends League Cricket Masters 2023",
+        "length": "14m",
+        "description":"Asia Lions overpowered India Maharajas by 9 runs to win the opening match of Legends League Cricket Masters 2023"
+    },
+    {
+        "title" : "The Last of Us",
+        "imageSrc" : "https://i.ibb.co/BKtJZJV/the-last-of-us.webp",
+        "titleImg" : "https://i.ibb.co/mbZn9fW/the-last-of-us.webp",
+        "year": "2023",
+        "length": "1 Season",
+        "language": ["English"],
+        "certification": "A",
+        "description":"NEW EPISODE EVERY MONDAY AT 8:30 AM. After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity’s last hope.",
+        "category": ["Drama"]
+    },
+    {
+        "title" : "Star Wars The Mandalorian",
+        "imageSrc" : "https://i.ibb.co/St9M96Q/star-wars-the-mandalorian.webp",
+        "titleImg" : "https://i.ibb.co/PgFL9Hv/mandalorian.webp",
+        "year": "2023",
+        "length": "3 Seasons",
+        "language": ["English"],
+        "certification": "UA/ 13+",
+        "description":"NEW EPISODE EVERY WEDNESDAY AT 1:30 PM. After the fall of the Empire, a lone gunfighter makes his way through the outer reaches of the lawless galaxy, earning his keep as a bounty hunter.",
+        "category": ["Action", "Science Fiction", "Adventure", "Western"]
+    },
+    {
+        "title" : "GulMohar",
+        "imageSrc" : "https://i.ibb.co/qM0vr84/gulmohar.webp",
+        "titleImg" : "https://i.ibb.co/tZ0qB7n/gulmohar.webp",
+        "year": "2023",
+        "length": "2h 11m",
+        "language": ["Hindi"],
+        "certification": "U/A 13+",
+        "description":"Batra family has just four days left to vacate their house of 34 years. Amidst the mayhem, uncertainties of the future, insecurities and secrets surface.",
+        "category": ["Family", "Drama"]
+    },
+    {
+        "title" : "The Maze Runner",
+        "imageSrc" : "https://i.ibb.co/dfMwsjd/the-maze-runner.webp",
+        "titleImg" : "https://i.ibb.co/CVjTG82/maze-runner.webp",
+        "year": "2014",
+        "length": "1h 48m",
+        "language": ["English"],
+        "certification": "U/A 16+",
+        "description":"Thomas wakes up in an elevator and finds himself in a strange world of young boys who are trying to escape through the Maze that surrounds their living space.",
+        "category": ["Science Fiction", "Action"]
+    }, 
+    {
+        "title" : "Maze Runner The Death Curse",
+        "imageSrc" : "https://i.ibb.co/Csv66cq/maze-runner-the-death-curse.webp",
+        "titleImg" : "https://i.ibb.co/mCztYsJ/maze-runner-death-curse.webp",
+        "year": "2018",
+        "length": "2h 17m",
+        "language": ["English"],
+        "certification": "U/A 13+",
+        "description":"Young hero Thomas embarks on a dangerous mission to find a cure for the deadly virus known as the Flare, which turns people into rampaging zombies.",
+        "category": ["Science Fiction", "Action", "Fantasy", "Buddy"]
+    }
+]
+}
